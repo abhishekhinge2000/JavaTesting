@@ -1,4 +1,4 @@
-package Rev;
+package Rev1;
 import java.util.Scanner;
 
 public class ReverseDigit {

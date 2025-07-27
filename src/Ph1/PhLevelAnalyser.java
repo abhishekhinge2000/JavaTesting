@@ -1,4 +1,4 @@
-package Ph;
+package Ph1;
 import java.util.Scanner;
 
 public class PhLevelAnalyser {
